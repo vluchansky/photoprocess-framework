@@ -25,7 +25,7 @@ In following chapters you will find detailed description of actual analog film p
 * Layering ideas/stories
 * Either a single story or a collection of stories/events (like movements)
 * Shadowing parts with another parts for hyperlinking and linking within a composition
-* Rich modelling possibilities after various scenarios of actual film usage: from experimental photography or lomography to faulty cheap camera in hands of elderly people who are attached to it and still take (or took?) family pictures with it, film could be recent or old, yours or found - think about scenarios like old film found in someone's belongings and developed out of curiosity 
+* Rich modelling possibilities after various scenarios of actual film usage: from experimental photography or lomography to faulty cheap camera in hands of elderly people who are attached to it and still take (or took?) family pictures with it, film could be recent or old, yours or found - think about scenarios like finding an old film in someone's belongings and developing it out of curiosity 
 
 ### Detailed description
 From taking a film up to printing it.
