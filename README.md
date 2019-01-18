@@ -28,11 +28,12 @@ In following chapters you will find detailed description of actual analog film p
 * Rich modelling possibilities after various scenarios of actual film usage: from experimental photography or lomography to faulty cheap camera in hands of elderly people who are attached to it and still take (or took?) family pictures with it, film could be recent or old, yours or found - think about scenarios like finding an old film in someone's belongings and developing it out of curiosity 
 
 ### Detailed description
-From taking a film up to printing it.
+Here you will find all details from taking a film up to printing it in photo laboratory and manually at home.
+These details are required to get involved into the process and imagine things that happen with film to build a stronger connection with images used by the framework. Whole thing is built up on these details so they are important. 
 
 #### Photo laboratory
 Customer leaves undeveloped film - order is pre-paid.
-Developing: with special tool you retract the film's tail, cut it and attach to a leader - flexible plastic page of ~A5 size with perforation in the middle - with special duct tape. Then you check the developing machine - chemicals (developer, fixer, washer) should be filled in correctly and machine should be heated up and ready. All temperature values should be fine too according to the currently used developing process. Starting the machine will make the gears rotate so a leader with attached film can be hooked up by perforation, carefully taken through tanks with chemicals and developed.
+Developing: with special tool you retract the film's tail, cut it and attach to a leader - flexible plastic page of ~A5 size with perforation in the middle - with special duct tape. Then you check the developing machine - chemicals (developer, fixer, washer) should be filled in correctly and machine should be heated up and ready. All temperature values should be fine too according to the currently used developing process. Starting the machine will make the gears rotate so a leader with attached film can be hooked up by perforation, carefully taken inside through all the machine, through tanks with chemicals one by one and finally developed.
 
 
 ### List of possible limitations, alterations and defects
